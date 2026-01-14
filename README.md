@@ -1,4 +1,4 @@
-# First_one
+# First one
 This is my first repository, and I’ll be sharing my learning and progress here as I go.  
 Currently, I am developing skills in:  
 - Business Analytics/Data analytics  
@@ -11,5 +11,5 @@ Currently, I am developing skills in:
 Learning Git, GitHub, and building things one step at a time.
 
 ## Author
-Kaushiki Wankhade
-B.Tech | Working on Business and Data Analytics
+Kaushiki Wankhade  
+B.Tech | aspiring Business and Data Analyst
